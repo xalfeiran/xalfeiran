@@ -17,7 +17,7 @@ I consider myself self taught, Javascript, PHP, C#, Python, Scripting, Linux, Ne
 
 - 💬 Ask me about **Javascript, PHP, Laravel, Codeigniter and where to get great tacos in Mexico**
 
-- 📫 How to reach me **x@mindware.com.mx**
+- 📫 Have a cool idea to develop? email me at **x@mindware.com.mx**
 
 - ⚡ Fun fact: **Even though I'm super tall I've never played Basketball.**
 
