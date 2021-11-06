@@ -1,7 +1,7 @@
 <h1 align="center">Hola a todos 👋 I'm Xavier Alfeiran</h1>
 <h3 align="center">A 6'5" Web Developer from Mexico 🇲🇽</h3>
 
-I'm a passionate developer since I was put in front of a Tandy 1000 with the Logo language and learned to draw giving this odd words to the computer and saving them in a 5 1/4 floppy disk (which hours later I broke because it fell between some notebooks in my bag). After that encounter I learned Basic (well GWBASIC), then all the BASIC Flavors, then I was presented to DBASE III Plus so my first formal Application was an accounting utility and was awful.
+I'm a passionate developer since I was 12 and was in front of a Tandy 1000 with the Logo language and learned to draw giving this odd words to the computer and saving them in a 5 1/4 floppy disk (which hours later I broke because it fell between some notebooks in my bag). After that encounter I learned Basic (well GWBASIC), then all the BASIC Flavors, then I was presented to DBASE III Plus so my first formal Application was an accounting utility and was awful.
 
 I consider myself self taught, Javascript, PHP, C#, Python, Scripting, Linux, Networking, you name it. Even though I work as IT Manager, my passion is Programming. Mindware is my brand for creating and delivering software based solutions. 
 
@@ -10,7 +10,8 @@ I consider myself self taught, Javascript, PHP, C#, Python, Scripting, Linux, Ne
 - 🔭 I’m currently working on <br/>
 <span style="margin-left:4em;">[Sibaris.com.mx](https://sibaris.com.mx)</span><br/>
 <span style="margin-left:4em;">[WebRoster](https://mindware.com.mx/webroster)</span><br/>
-<span style="margin-left:4em;">[Quellantas.com.mx](https://quellantas.com.mx)</span>
+<span style="margin-left:4em;">[Quellantas.com.mx](https://quellantas.com.mx)</span><br/>
+<span style="margin-left:4em;">[Chable Hotels](https://chablehotels.com) and other Wordpress websites</span>
 
 - 🤝 I’m looking for help with [Mi Quiniela](https://ww2.miquiniela.com.mx/app3) [Facebook Page](facebook.com/miquiniela.com.mx)
 
