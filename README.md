@@ -7,11 +7,6 @@ I consider myself self taught, Javascript, PHP, C#, Python, Scripting, Linux, Ne
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xalfeiran&label=Profile%20views&color=0e75b6&style=flat" alt="xalfeiran" /> </p>
 
-- 🔭 I’m currently working on <br/>
-<span style="margin-left:4em;">[Sibaris.com.mx](https://sibaris.com.mx)</span><br/>
-<span style="margin-left:4em;">[WebRoster](https://mindware.com.mx/webroster)</span><br/>
-<span style="margin-left:4em;">[Quellantas.com.mx](https://quellantas.com.mx)</span><br/>
-<span style="margin-left:4em;">[Chable Hotels](https://chablehotels.com) and other Wordpress websites</span>
 
 - 🤝 I’m looking for help with [Mi Quiniela](https://ww2.miquiniela.com.mx/app3) [Facebook Page](facebook.com/miquiniela.com.mx)
 
